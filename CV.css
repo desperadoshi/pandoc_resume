@@ -8,18 +8,44 @@
  * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
  */
 
+/*
+ * Modified by Jingchang.Shi <jingchangshi@gmail.com>
+ * Updated: 2015.08.27
+ */
+
 /* Whole document */
+@font-face {
+  font-family: 'Source Serif Pro';
+  src: url('./font/SourceSerifPro-Regular-webfont.ttf');
+  src: url('./font/SourceSerifPro-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+      url('./font/SourceSerifPro-Regular-webfont.woff') format('woff'),
+      url('./font/SourceSerifPro-Regular-webfont.ttf') format('truetype'),
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Alegreya';
+  src: url('./font/alegreya-regular-webfont.ttf');
+  src: url('./font/alegreya-regular-webfont.eot?#iefix') format('embedded-opentype'),
+      url('./font/alegreya-regular-webfont.woff') format('woff'),
+      url('./font/alegreya-regular-webfont.ttf') format('truetype'),
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    width: 800px;
+    /*font-family: "Source Serif Pro";*/
+    font-family: "Alegreya";
+    font-size: 1.2em;
+    width: 1000px;
     margin: auto;
     background: #FFFFFF;
-    padding: 10px 10px 10px 10px;
+    /* padding: 5% 3% 3% 3%; */
 }
 
 /* Title of the resume */
 h1 {
-    font-size: 55px;
+    font-size: 2.0em;
     color: #757575;
     text-align:center;
     margin-bottom:15px;
@@ -34,6 +60,7 @@ h1:hover {
 h2 {
     /* This is called "sectioncolor" in the ConTeXt stylesheet. */
     color: #397249;
+    font-size: 1.6em;
 }
 /* There is a bar just before each category */
 h2:before {
@@ -51,15 +78,23 @@ h2:hover {
     text-shadow: 1px 1px 1px #333;
 }
 
+/*========================================================*/
+/* small text */
+/*========================================================*/
+.text-small {
+    font-size: 0.8em;
+}
+
 /* Definitions */
 dt {
     float: left;
     clear: left;
-    width: 17%;
+    width: 20%;
     /*font-weight: bold;*/
 }
 dd {
-    margin-left: 17%;
+    margin-left: 21%;
+    padding-bottom: 5px;
 }
 p {
     margin-top:0;
