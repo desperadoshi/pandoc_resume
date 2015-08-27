@@ -18,6 +18,11 @@ rtf: CV.rtf
 CV.rtf: CV.md
 	pandoc -s -S CV.md -o CV.rtf
 
+publish: html pdf
+	cp CV.html ../desperadoshi.github.io/index.html
+	cp CV.pdf ../desperadoshi.github.io/
+	cp -r ./font ../desperadoshi.github.io/
+
 clean:
 	rm CV.html
 	rm CV.pdf
