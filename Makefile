@@ -21,7 +21,6 @@ CV.rtf: CV.md
 publish: html pdf
 	cp CV.html ../desperadoshi.github.io/index.html
 	cp CV.pdf ../desperadoshi.github.io/
-	cp -r ./font ../desperadoshi.github.io/
 
 clean:
 	rm CV.html

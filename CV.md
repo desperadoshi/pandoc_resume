@@ -16,6 +16,9 @@ Address
 Email
 :   [jingchangshi@gmail.com](mailto:jingchangshi@gmail.com)
 
+GitHub
+:   [https://github.com/desperadoshi](https://github.com/desperadoshi)
+
 ----
 
 ## Education
