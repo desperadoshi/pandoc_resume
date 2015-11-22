@@ -15,32 +15,18 @@
 
 /* Whole document */
 @font-face {
-  font-family: 'Source Serif Pro';
-  src: url('./font/SourceSerifPro-Regular-webfont.ttf');
-  src: url('./font/SourceSerifPro-Regular-webfont.eot?#iefix') format('embedded-opentype'),
-      url('./font/SourceSerifPro-Regular-webfont.woff') format('woff'),
-      url('./font/SourceSerifPro-Regular-webfont.ttf') format('truetype'),
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Alegreya';
-  src: url('./font/alegreya-regular-webfont.ttf');
-  src: url('./font/alegreya-regular-webfont.eot?#iefix') format('embedded-opentype'),
-      url('./font/alegreya-regular-webfont.woff') format('woff'),
-      url('./font/alegreya-regular-webfont.ttf') format('truetype'),
+  font-family: 'FangZhengQingKeBenYueSongJian';
+  src: url('./font/FangZhengQingKeBenYueSongJian.ttf');
   font-weight: normal;
   font-style: normal;
 }
 
 body {
-    /*font-family: "Source Serif Pro";*/
-    font-family: "Alegreya";
+    font-family: "FangZhengQingKeBenYueSongJian";
     font-size: 1.2em;
     width: 1000px;
     margin: auto;
     background: #FFFFFF;
-    /* padding: 5% 3% 3% 3%; */
 }
 
 /* Title of the resume */
