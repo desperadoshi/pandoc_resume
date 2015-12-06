@@ -1,82 +1,41 @@
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha256-3dkvEK0WLHRJ7/Csr0BZjAWxERc5WH7bdeUya2aXxdU= sha512-+L4yy6FRcDGbXJ9mPG8MT/3UCDzwR9gPeyFNMCtInsol++5m3bk2bXWKdZjvybmohrAsn3Ua5x8gfLnbE1YkOg==" crossorigin="anonymous">
+
 <style type="text/css">
-/*
- * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
- *
- * CSS for making a resume with pandoc. Inspired by moderncv.
- *
- * This CSS document is delivered to you under the CC BY-SA 3.0 License.
- * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
- */
-
-/*
- * Modified by Jingchang.Shi <jingchangshi@gmail.com>
- * Updated: 2015.08.27
- */
-
-/* Whole document */
 @font-face {
-  font-family: 'FangZhengQingKeBenYueSongJian';
-  src: url('./font/FangZhengQingKeBenYueSongJian.ttf');
-  font-weight: normal;
-  font-style: normal;
+font-family: 'FangZhengQingKeBenYueSongJian';
+src: url('./font/FangZhengQingKeBenYueSongJian.ttf');
+font-weight: normal;
+font-style: normal;
 }
-
 body {
-    font-family: "FangZhengQingKeBenYueSongJian";
+    font-family: FangZhengQingKeBenYueSongJian;
     font-size: 1.2em;
     width: 1000px;
     margin: auto;
     background: #FFFFFF;
 }
-
-/* Title of the resume */
 h1 {
     font-size: 2.0em;
     color: #757575;
     text-align:center;
     margin-bottom:15px;
 }
-h1:hover {
-    background-color: #757575;
-    color: #FFFFFF;
-    text-shadow: 1px 1px 1px #333;
-}
-
-/* Titles of categories */
 h2 {
-    /* This is called "sectioncolor" in the ConTeXt stylesheet. */
-    color: #397249;
     font-size: 1.6em;
+    color: #397249;
 }
-/* There is a bar just before each category */
-h2:before {
-    content: "";
-    display: inline-block;
-    margin-right:1%;
-    width: 16%;
-    height: 10px;
-    /* This is called "rulecolor" in the ConTeXt stylesheet. */
-    background-color: #9CB770;
-}
-h2:hover {
-    background-color: #397249;
-    color: #FFFFFF;
-    text-shadow: 1px 1px 1px #333;
-}
-
-/*========================================================*/
-/* small text */
-/*========================================================*/
 .text-small {
     font-size: 0.8em;
 }
-
+.column_1_2 {
+    float: left;
+    width: 49%;
+}
 /* Definitions */
 dt {
     float: left;
     clear: left;
     width: 20%;
-    /*font-weight: bold;*/
 }
 dd {
     margin-left: 21%;
@@ -86,29 +45,16 @@ p {
     margin-top:0;
     margin-bottom:7px;
 }
-
-/* Blockquotes */
 blockquote {
     text-align: center
 }
-
-/* Links */
 a {
     text-decoration: none;
     color: #397249;
 }
-a:hover, a:active {
-    background-color: #397249;
-    color: #FFFFFF;
-    text-decoration: none;
-    text-shadow: 1px 1px 1px #333;
-}
-
-/* Horizontal separators */
 hr {
     color: #A6A6A6;
 }
-
 table {
     width: 100%;
 }

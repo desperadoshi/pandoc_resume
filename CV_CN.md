@@ -2,30 +2,37 @@
 
 ----
 
-## 个人信息
+## <span class="fa fa-info-circle"></span> 个人信息
 
-常居
-:   中国西安
+<div class="column_1_2">
+<dt><span class="fa fa-male fa-fw"></span>性别</dt>
+<dd>男</dd>
+</div>
+<div class="column_1_2">
+<dt><span class="fa fa-child fa-fw"></span>生年</dt>
+<dd>1992年7月</dd>
+</div>
 
-出生年月
-:   1992年7月
+<div class="column_1_2">
+<dt><span class="fa fa-map-marker fa-fw"></span>常居</dt>
+<dd>中国西安</dd>
+</div> 
+<div class="column_1_2">
+<dt><span class="fa fa-building fa-fw"></span>地址</dt>
+<dd>中国陕西省西安市友谊西路127号</dd>
+</div>
 
-地址
-:   中国陕西省西安市友谊西路127号
-
-邮箱
+<span class="fa fa-envelope fa-fw"></span> 邮箱
 :   [jingchangshi@gmail.com](mailto:jingchangshi@gmail.com)
 
-Github
+<span class="fa fa-github fa-fw"></span>Github
 :   [https://github.com/desperadoshi](https://github.com/desperadoshi)
 
-简历网页版
-:	[http://desperadoshi.github.io/](http://desperadoshi.github.io/)（英文版）
-:	[http://desperadoshi.github.io/cv_cn.html](http://desperadoshi.github.io/cv_cn.html)（中文版）
+<span class="fa fa-cloud fa-fw"></span>简历网页版
+:	[http://desperadoshi.github.io/cv_en.html](http://desperadoshi.github.io/cv_en.html)（<span class="text-small">英文版</span>）
+:	[http://desperadoshi.github.io/cv_cn.html](http://desperadoshi.github.io/cv_cn.html)（<span class="text-small">中文版</span>）
 
-----
-
-## 教育经历
+## <span class="fa fa-university fa-fw"></span> 教育经历
 
 2014年9月 - 今
 :   **博士在读，工程热物理专业**，西北工业大学
@@ -42,9 +49,7 @@ Github
     **GPA**: 86.6/100.0
     :   **RANK**: 4/135(3%)
 
-----
-
-## 发表论文
+## <span class="fa fa-pencil fa-fw"></span> 发表论文
 
 2015年11月
 :	石京昶，严红，林科，**热激励器对马赫1.3自由射流结构的数值研究**
@@ -68,18 +73,14 @@ Github
 
     <div class="text-small">发表于2013年中国力学大会，西安</div>
 
-----
-
-## 报告与演讲
+## <span class="fa fa-microphone fa-fw"></span> 报告与演讲
 
 2015年10月
 :   Shi, J., & Yan, H. **Effects of Thermal Actuators on Turbulent Structures of Mach 1.3 Jet.**
 
     <div class="text-small">于2015年NPU-TUBS研讨会，西安</div>
 
-----
-
-## 所获奖项
+## <span class="fa fa-trophy fa-fw"></span> 所获奖项
 
 2015年9月
 :	西北工业大学博士二等奖学金
@@ -111,9 +112,7 @@ Github
 2011年9月
 :   西北工业大学校三好学生及一等奖学金
 
-----
-
-## 专利与证书
+## <span class="fa fa-certificate fa-fw"></span> 专利与证书
 
 2014年11月
 :   IELTS: 7.0
@@ -132,9 +131,7 @@ Github
 2011年6月
 :   CET-4
 
-----
-
-## 专业技能
+## <span class="fa fa-star fa-fw"></span> 专业技能
 
 掌握
 :   C++, HTML, CSS, OpenFOAM
@@ -144,5 +141,5 @@ Github
 
 ----
 
-> <div class='text-small'>更新于：2015-11-22 14:17:39，使用[pandoc_resume](https://github.com/desperadoshi/pandoc_resume)生成</div>
-> <div class='text-small'>[下载PDF版](./CV_CN.pdf)</div>
+> <div class='text-small'>更新于：2015-12-06 21:35:30，使用[pandoc_resume](https://github.com/desperadoshi/pandoc_resume)生成</div>
+> <div class='text-small'><span class="fa fa-download"></span>[PDF版](./CV_CN.pdf)</div>
