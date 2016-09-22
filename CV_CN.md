@@ -39,7 +39,7 @@
 
     **状态**：博士二年级 | 导师：严红教授
 
-    **研究方向**：超音速边界层中的层流-湍流转捩，高精度数值格式，CPR，超音速射流，LES
+    **研究方向**：激波边界层干扰，高精度数值格式，CPR，LES
 
 2010年9月 - 2014年7月
 :   **学士，航空发动机专业**，西北工业大学
@@ -138,5 +138,5 @@
 
 ----
 
-> <div class='text-small'>更新于：2016-06-07, 19:44:58，使用[pandoc_resume](https://github.com/desperadoshi/pandoc_resume)生成</div>
+> <div class='text-small'>更新于：2016-09-22 23:13:11，使用[pandoc_resume](https://github.com/desperadoshi/pandoc_resume)生成</div>
 > <div class='text-small'><span class="fa fa-download"></span>[PDF版](./CV_CN.pdf)</div>
