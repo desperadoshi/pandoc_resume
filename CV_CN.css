@@ -2,17 +2,17 @@
 
 <style type="text/css">
 @font-face {
-font-family: 'FangZhengQingKeBenYueSongJian';
-src: url('./font/FangZhengQingKeBenYueSongJian.ttf');
-font-weight: normal;
-font-style: normal;
+  font-family: 'ChineseFont';
+  src: url('./font/WenYue-GuDianMingChaoTi-NC-W5.otf');
+  font-weight: normal;
+  font-style: normal;
 }
 body {
-    font-family: FangZhengQingKeBenYueSongJian;
-    font-size: 1.2em;
-    width: 1000px;
-    margin: auto;
-    background: #FFFFFF;
+  font-family: 'ChineseFont';
+  font-size: 1.2em;
+  width: 1000px;
+  margin: auto;
+  background: #FFFFFF;
 }
 h1 {
     font-size: 2.0em;
