@@ -141,5 +141,5 @@
 
 ----
 
-> <div class='text-small'>更新于：2016-09-22 23:13:11，使用[pandoc_resume](https://github.com/desperadoshi/pandoc_resume)生成</div>
+> <div class='text-small'>更新于：2016-11-02, 17:24:46，使用[pandoc_resume](https://github.com/desperadoshi/pandoc_resume)生成</div>
 > <div class='text-small'><span class="fa fa-download"></span>[PDF版](./CV_CN.pdf)</div>
