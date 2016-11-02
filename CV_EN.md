@@ -37,9 +37,12 @@
 Sep 2014 - Current
 :   **PhD, in Thermophysics**, Northwestern Polytechnic University, Xi’an
 
-    **Status**: 2^nd^ year of Ph.D. | Advisor: Prof. Hong Yan
+    **Status**: 3^rd^ year of Ph.D. | Advisor: Prof. Hong Yan
 
     **Research Topic**: Shock Wave/Boundary Layer Interaction, High-order numerical schemes, Correction Procedure via Reconstruction, LES
+
+Oct 2016 - Current
+:   **Visting Student**, University of Kansas, Lawrence, Kansas State, US
 
 Sep 2010 - Jul 2014
 :   **Bachelor in Aeroengine**; Northwestern Polytechnic University, Xi’an
