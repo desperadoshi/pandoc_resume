@@ -17,11 +17,11 @@ CV_CN.html: CV_CN.css CV_CN.md
         -o CV_CN.html CV_CN.md
 
 publish: html pdf
-	cp CV_EN.html ../desperadoshi.github.io/cv_en.html
-	cp CV_EN.pdf ../desperadoshi.github.io/CV_EN.pdf
-	cp CV_CN.html ../desperadoshi.github.io/cv_cn.html
-	cp CV_CN.pdf ../desperadoshi.github.io/CV_CN.pdf
-	cp CV_EN.html ../desperadoshi.github.io/index.html
+	cp CV_EN.html ../desperadoshi.github.io/resume/cv_en.html
+	cp CV_EN.pdf ../desperadoshi.github.io/resume/CV_EN.pdf
+	cp CV_CN.html ../desperadoshi.github.io/resume/cv_cn.html
+	cp CV_CN.pdf ../desperadoshi.github.io/resume/CV_CN.pdf
+	cp CV_EN.html ../desperadoshi.github.io/resume/index.html
 
 clean:
 	rm CV_EN.html CV_EN.pdf

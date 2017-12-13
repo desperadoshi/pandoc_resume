@@ -29,17 +29,17 @@
 :   [https://github.com/desperadoshi](https://github.com/desperadoshi)
 
 <span class="fa fa-cloud fa-fw"></span>CV Online
-:   [http://desperadoshi.github.io/cv_en.html](http://desperadoshi.github.io/cv_en.html)(<span class="text-small">English Version</span>)
-:   [http://desperadoshi.github.io/cv_cn.html](http://desperadoshi.github.io/cv_cn.html)(<span class="text-small">Chinese Version</span>)
+:   [http://desperadoshi.github.io/resume/cv_en.html](http://desperadoshi.github.io/resume/cv_en.html)(<span class="text-small">English Version</span>)
+:   [http://desperadoshi.github.io/resume/cv_cn.html](http://desperadoshi.github.io/resume/cv_cn.html)(<span class="text-small">Chinese Version</span>)
 
 ## <span class="fa fa-university fa-fw"></span> Education
 
 Sep 2014 - Current
 :   **PhD, in Thermophysics**, Northwestern Polytechnic University, Xi’an
 
-    **Status**: 3^rd^ year of Ph.D. | Advisor: Prof. Hong Yan
+    **Status**: 4^th^ year of Ph.D. | Advisor: Prof. Hong Yan
 
-    **Research Topic**: Shock Wave/Boundary Layer Interaction, High-order numerical schemes, Correction Procedure via Reconstruction, LES
+    **Research Topic**: Shock Wave/Boundary Layer Interaction, Wall Modeled LES, High-order numerical schemes, Correction Procedure via Reconstruction
 
 Oct 2016 - Current
 :   **Visting Student**, University of Kansas, Lawrence, Kansas State, US
@@ -51,95 +51,51 @@ Sep 2010 - Jul 2014
 
 ## <span class="fa fa-pencil fa-fw"></span> Publications
 
-Nov 2015
-:   Shi, J., & Yan, H., Lin, K. **Numerical Investigation on Turbulent Structures of Mach 1.3 Jet with Thermal Actuators**
+Jun 2017
+:   Shi. J., Yan. H, Bai. G., Lin. K., **Effect of Thermal Actuator on Vortex Characteristics in Supersonic Shear Layer**
 
-    <div class="text-small">Published in 2015 Chinese Engineering Thermophysics Conference, XiaMen</div>
+    <div class="text-small">Published in 47th AIAA Fluid Dynamics Conference, AIAA AVIATION Forum, Denver, Colorado, US</div>
+
+    <div class="text-small">DOI: 10.2514/6.2017-4307</div>
+
+Nov 2015
+:   Shi. J., Yan. H., Lin. K., **Numerical Investigation on Turbulent Structures of Mach 1.3 Jet with Thermal Actuators**
+
+    <div class="text-small">Published in 2015 Chinese Engineering Thermophysics Conference, Xiamen</div>
 
 Aug 2015
-:   Shi, J., & Yan, H., Lin, K. **Effects of Thermal Actuators on Turbulent Structures of Mach 1.3 Jet**
+:   Shi. J., Yan. H., Lin. K., **Effects of Thermal Actuators on Turbulent Structures of Mach 1.3 Jet**
 
     <div class="text-small">Published in 2015 Chinese Mechanics Conference, ShangHai</div>
 
 Jan 2014
-:   Mortazavi, M., Knight, D., Azarova, O., Shi, J., & Yan, H. **Numerical Simulation of Energy Deposition in a Supersonic Flow Past a Hemisphere**
+:   Mortazavi. M., Knight. D., Azarova. O., Shi. J., Yan. H., **Numerical Simulation of Energy Deposition in a Supersonic Flow Past a Hemisphere**
 
     <div class="text-small">Published in AIAA 52nd Aerospace Sciences Meeting</div>
 
     <div class="text-small">DOI: 10.2514/6.2014-0944</div>
 
 Aug 2013
-:   Shi, J., & Yan, H. **CUDA Implementation of a Laplace Solver**
+:   Shi. J., Yan. H., **CUDA Implementation of a Laplace Solver**
 
     <div class="text-small">Published in 2013 Chinese Mechanics Conference, Xi'an</div>
 
 ## <span class="fa fa-microphone fa-fw"></span> Presentations
 
 Oct 2015
-:   Shi, J., & Yan, H. **Effects of Thermal Actuators on Turbulent Structures of Mach 1.3 Jet**
+:   Shi. J., Yan. H., **Effects of Thermal Actuators on Turbulent Structures of Mach 1.3 Jet**
 
     <div class="text-small">Presented in 2015 NPU-TUBS Workshop</div>
-
-## <span class="fa fa-trophy fa-fw"></span> Scholarships and Prizes
-
-Sep 2015
-:   NPU 2^nd^ Class Ph.D. Academic Scholarship
-
-Sep 2014
-:   NPU 1^st^ Class Ph.D. Academic Scholarship
-
-Jul 2014
-:   Outstanding Graduates Award
-
-Sep 2013
-:   Merit Student and First-Class Scholarship
-
-Sep 2013
-:   “7081” Scholarship
-
-Sep 2012
-:   National 2^nd^ Prize in Undergraduate Mathematical Modeling Contest
-
-Sep 2012
-:   Merit Student and First-Class Scholarship
-
-Sep 2012
-:   “WU YAJUN” Scholarship
-
-Jun 2012
-:   National 3^rd^ Prize in National Undergraduate Energy Conservation and Emission Reduction Science Contest
-
-Sep 2011
-:   Merit Student and First-Class Scholarship
-
-## <span class="fa fa-certificate fa-fw"></span> Patents and Certificates
-
-Nov 2014
-:   IELTS: 7.0
-
-Feb 2014
-:   Patent: “Heat Disipation Device Powered by Solar Energy on Vehicle”
-
-    Patent number: CN 203438959U
-
-Feb 2012
-:   IELTS: 7.0
-
-Dec 2011
-:   CET-6
-
-Jun 2011
-:   CET-4
 
 ## <span class="fa fa-star fa-fw"></span> Professional Skills
 
 Basic
-:   C++, HTML, CSS, OpenFOAM
+:   HTML, CSS, OpenFOAM
 
 Fluent
-:   C, Python, Fortran, Matlab, Linux, LATEX, Ansys Fluent, Ansys ICEM CFD, Gambit
+:   C++, C, Python, Fortran, Matlab, Linux, Shell, GDB, LATEX, Ansys Fluent, Ansys ICEM CFD, Gambit, Gmsh, Tecplot, Paraview
 
 ----
 
-> <div class='text-small'>Updated: 2016-11-02, 17:24:28, generated by [pandoc_resume](https://github.com/desperadoshi/pandoc_resume)</div>
+> <div class='text-small'>Updated: 2017-12-12, 20:33:49, generated by [pandoc_resume](https://github.com/desperadoshi/pandoc_resume)</div>
 > <div class='text-small'><span class="fa fa-download"></span>[PDF version](./CV_EN.pdf)</div>
