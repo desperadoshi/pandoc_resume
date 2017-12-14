@@ -1,61 +1,59 @@
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha256-3dkvEK0WLHRJ7/Csr0BZjAWxERc5WH7bdeUya2aXxdU= sha512-+L4yy6FRcDGbXJ9mPG8MT/3UCDzwR9gPeyFNMCtInsol++5m3bk2bXWKdZjvybmohrAsn3Ua5x8gfLnbE1YkOg==" crossorigin="anonymous">
+<link rel="stylesheet" href="./static/FangZhengCuJinLingJian-embed.css">
+<link rel="stylesheet" href="./static/FangZhengXiJinLingJian-embed.css">
 
 <style type="text/css">
-@font-face {
-  font-family: 'ChineseFont';
-  src: url('./font/WenYue-GuDianMingChaoTi-NC-W5.otf');
-  font-weight: normal;
-  font-style: normal;
-}
 body {
-  font-family: 'ChineseFont';
+  font-family: 'FangZhengXiJinLingJian';
   font-size: 1.2em;
   width: 1000px;
   margin: auto;
   background: #FFFFFF;
 }
 h1 {
-    font-size: 2.0em;
-    color: #757575;
-    text-align:center;
-    margin-bottom:15px;
+  font-family: 'FangZhengCuJinLingJian';
+  font-size: 2.0em;
+  color: #757575;
+  text-align: center;
+  margin-bottom: 15px;
 }
 h2 {
-    font-size: 1.6em;
-    color: #397249;
+  font-family: 'FangZhengCuJinLingJian';
+  font-size: 1.6em;
+  color: #397249;
 }
 .text-small {
-    font-size: 0.8em;
+  font-size: 0.8em;
 }
 .column_1_2 {
-    float: left;
-    width: 49%;
+  float: left;
+  width: 49%;
 }
 /* Definitions */
 dt {
-    float: left;
-    clear: left;
-    width: 20%;
+  float: left;
+  clear: left;
+  width: 20%;
 }
 dd {
-    margin-left: 21%;
-    padding-bottom: 5px;
+  margin-left: 21%;
+  padding-bottom: 5px;
 }
 p {
-    margin-top:0;
-    margin-bottom:7px;
+  margin-top:0;
+  margin-bottom:7px;
 }
 blockquote {
-    text-align: center
+  text-align: center
 }
 a {
-    text-decoration: none;
-    color: #397249;
+  text-decoration: none;
+  color: #397249;
 }
 hr {
-    color: #A6A6A6;
+  color: #A6A6A6;
 }
 table {
-    width: 100%;
+  width: 100%;
 }
 </style>
